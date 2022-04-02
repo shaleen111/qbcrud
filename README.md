@@ -9,5 +9,3 @@ QBCRUD was an application I wrote for a project at school. Aiming to create a ba
 
 Installation is quite easy: install DOSBox and then download QB 4.5 (or just use this: [QB + DOS installer](https://bit.ly/2UA57vP)). Run QB 4.5 from within DOSBox and open the PROJ.BAS file from within the QB interpreter.
 Note: The .BAS file needs to be placed in the same directory as QB.EXE
-
-***
