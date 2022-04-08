@@ -24,7 +24,7 @@ QBCRUD was an application I wrote for a project at school. The program implement
 ## Installation
 
 Installation is quite easy:
-1. Install DOSBox and then download QB 4.5 (or just use this: [QB + DOS installer](https://bit.ly/2UA57vP)).
+1. Install DOSBox and then download QB 4.5 (or just use this [QB + DOS installer](https://bit.ly/2UA57vP)).
 2. Run QB 4.5 from within DOSBox and open the PROJ.BAS file from within the QB interpreter.
 
 
