@@ -8,8 +8,7 @@ QBCRUD
           </a>
 </p>
 
-A simple (but polished) implementation of the Snake game in Rust.
-Made with the intention of getting used to Rust as well as the graphics libraries available for it.
+QBCRUD was an application I wrote for a project at school. The program implements CRUD actions allowing users to manipulate data represented in tables. It's still quite basic, most of the project deals with UI more than CRUD actions. It has basic validation and error handling functionality however I don't thing there is a single line of comment anywhere. I am still proud of what I could achieve operating entirely inside the QBASIC 4.5 interpreter even though the program has a few hacky edges.
 
 
 <p align="center">
